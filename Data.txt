@@ -1,0 +1,5 @@
+Dinh Chieu;24;7.7
+Huu Vi;60;7.5
+Thanh Liem;15;8
+Thai Khiem;19;6
+Trong Khang;19;10

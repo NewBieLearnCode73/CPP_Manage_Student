@@ -1,0 +1,1 @@
+cout << person_list[i].name;
